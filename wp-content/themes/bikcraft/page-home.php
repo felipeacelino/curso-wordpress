@@ -8,10 +8,10 @@
 
 <section class="introducao">
 	<div class="container">
-		<h1><?php the_field('titulo_introducao'); ?>Bicicletas Feitas a Mão</h1>
+		<h1><?php the_field('titulo_introducao'); ?></h1>
 		<blockquote class="quote-externo">
-			<p><?php the_field('quote_introducao'); ?>"não tenha nada em sua casa que você não considere útil ou acredita ser bonito”</p>
-			<cite><?php the_field('citacao_introducao'); ?>WILLIAM MORRIS</cite>
+			<p><?php the_field('quote_introducao'); ?></p>
+			<cite><?php the_field('citacao_introducao'); ?></cite>
 		</blockquote>
 		<a href="/curso-wordpress/produtos" class="btn">Orçamento</a>
 	</div>
@@ -48,7 +48,7 @@
 	</ul>
 
 	<div class="call">
-		<p><?php the_field('chamada_produtos'); ?>clique aqui e veja os detalhes dos produtos</p>
+		<p><?php the_field('chamada_produtos'); ?></p>
 		<a href="/curso-wordpress/produtos" class="btn btn-preto">Produtos</a>
 	</div>
 
