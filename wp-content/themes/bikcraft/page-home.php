@@ -59,10 +59,6 @@
 	<div class="container">
 		<h2 class="subtitulo">Portfólio</h2>
 		<?php include(TEMPLATEPATH . '/inc/clientes-portfolio.php'); ?>
-		<div class="call">
-			<p><?php the_field('chamada_portfolio'); ?>conheça mais o nosso portfólio</p>
-			<a href="/curso-wordpress/portfolio" class="btn">Portfólio</a>
-		</div>
 	</div>
 </section>
 
