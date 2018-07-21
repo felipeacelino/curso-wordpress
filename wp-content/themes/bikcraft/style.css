@@ -561,11 +561,11 @@ img {
 }
 
 .header_menu ul li a:hover {
-	border-color: #fff;
+	color: #fff;
 }
 
-.header_menu ul li a.menu_ativo {
-	border-color: #fff;
+.header_menu ul li.current_page_item a {
+	color: #fff;
 }
 
 /*Introducao*/
