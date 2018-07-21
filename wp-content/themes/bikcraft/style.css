@@ -236,6 +236,11 @@ img {
 	padding: 60px 0;
 }
 
+.produtos_lista a, 
+.produtos_lista a:visited{
+	color: #000;
+}
+
 .produtos_lista li{
 	background: #fec63e;
 	text-align: center;
