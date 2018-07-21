@@ -44,12 +44,6 @@
         </div>
     </footer>
 
-	<!-- JavaScript -->
-	<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/libs/jquery-1.11.2.min.js"></script>
-	<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/plugins.js"></script>
-	<script src="<?php echo get_stylesheet_directory_uri(); ?>/js/main.js"></script>
-	<!-- JavaScript -->
-
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
